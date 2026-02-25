@@ -2,7 +2,7 @@
 
 // Pin definitions
 const int TRIG_PIN = 9;
-const int ECHO_PIN = 8;
+const int ECHO_PIN = 8; 
 
 // Constants
 const float SOUND_SPEED_CM_US = 0.034; // Speed of sound in cm/microsecond
