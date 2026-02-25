@@ -5,7 +5,7 @@
 // Pin setup
 //Connect Bluetooth TX -> Arduino pin 2
 //Connect Bluetooth RX -> Arduino pin 3
-const int BT_RX_PIN = 2; // Arduino receives data from Bluetooth TX
+const int BT_RX_PIN = 2; // Arduino receives data from Bluetooth TX 
 const int BT_TX_PIN = 3; // Arduino sends data to Bluetooth RX
 
 // Baud rate
