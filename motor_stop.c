@@ -86,7 +86,7 @@ void left() {
     motor4.run(BACKWARD);
 }
 
-void backward() {
+void right() {
     // left wheels go forward, right wheels go backward
     // assumes motor 1 and 2 = right side, motor 3 and 4 = left side
     // swap FORWARD/BACKWARD here if the car turns the wrong way
