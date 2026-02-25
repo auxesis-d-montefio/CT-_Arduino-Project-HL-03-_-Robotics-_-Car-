@@ -1,4 +1,4 @@
-// Submitted By Shanaia
+// Submitted By Shanaia 
 // Key fixes: missing brackets in setup(), missing loop() function, sonar object was never declared, and no pin definitions
 
 #include <Servo.h>        // Includes the Servo library to control servo motors
