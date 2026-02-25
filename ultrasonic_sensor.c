@@ -38,7 +38,7 @@ int measureDistance() {
   delayMicroseconds(10);
   digitalWrite(TRIG_PIN, LOW);
 
-  // Read echo duration with timeout
+  // Read echo duration with timeout 
   long duration = pulseIn(ECHO_PIN, HIGH, TIMEOUT_US);
 
   if (duration == 0) return -1; // Timeout occurred
