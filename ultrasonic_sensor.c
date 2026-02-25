@@ -1,3 +1,5 @@
+// Submitted by Althea
+
 // Pin definitions
 const int TRIG_PIN = 9;
 const int ECHO_PIN = 8;
